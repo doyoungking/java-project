@@ -32,9 +32,9 @@
 - ugui package
   * 사용자 메뉴 class 묶음(사용자화면,장바구니담기,장바구니 취소,장바구니 보기(결제),개인정보 보기(금액충전))
 -----------------------------------
-- swing package를 이용하여 gui 구현
-  * Jframe 을 상속받거나 직접 Jtable등 객체를 생성하여 gui를 구현했다
-- awt package를 이용하여 GUI 에서 발생하는 이벤트를 처리 
+- swing package를 이용하여 gui 구현.
+  * Jframe 을 상속받거나 직접 Jtable등 객체를 생성하여 gui를 구현.
+- awt package를 이용하여 GUI 에서 발생하는 이벤트를 처리.
   * ActionListener 인터페이스 구현을 통해 method 재정의하여 마우스 클릭 Event 처리 코드 구현.
 
   
